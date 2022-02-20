@@ -21,3 +21,10 @@
     
 <br/>
 <hr />
+
+ ## ⚡ Technologies I love and use
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="all" src="https://raw.githubusercontent.com/kannanfa/kannanfa/main/images/linkerdin-banner.png">
+                                                              
+</div>
