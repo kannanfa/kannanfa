@@ -26,5 +26,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="all" src="https://raw.githubusercontent.com/kannanfa/kannanfa/main/images/linkerdin-banner.png">
-                                                              
 </div>
+<br>
+ 
+  ### Stay tune at <a href="https://github.com/framework-workshop"> framework-workshop </a> for production ready react microfrontend boilerplate
+  
+  
