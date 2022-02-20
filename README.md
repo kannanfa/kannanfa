@@ -14,12 +14,20 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer** with 8 years of experience. </br> </br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
-   
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
-    
+💻 I’m a **Full-stack developer**,  **Tech enthusiast**
+ </br> 
+
+I'm a lazy person. To ease my work I adopt new technology and innovate new things. 
+I like to work on providing solutions for complex problems to avoid boredom at work.  
+I'm one of few idiots who believe in technology could help people to achieve the betterment of life. so I am happy to be part of it.
 <br/>
+  Feel free to contact me, if you want to discuss any software development topic or solutioning problems.
+</br> 
+
+> **Stay Hungry. Stay Foolish.**
+		        [-**Steve Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)
+> 
+  
 <hr />
 
  ## ⚡ Technologies I love and use
@@ -28,7 +36,8 @@
   <img align="center" alt="all" src="https://raw.githubusercontent.com/kannanfa/kannanfa/main/images/linkerdin-banner.png">
 </div>
 <br>
- 
-  ### Stay tune at <a href="https://github.com/framework-workshop"> framework-workshop </a> for production ready react microfrontend boilerplate
   
+## Stay tune at <a href="https://github.com/framework-workshop"> framework-workshop </a> for production ready react microfrontend boilerplate
+
+
   
