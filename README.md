@@ -6,10 +6,10 @@
   <img align="left" alt="Kannan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/kannanfa">
-  <img align="left" alt="Kannan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kannan | Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" />
 </a>
 <a href="https://www.linkedin.com/in/kannanfa/">
-  <img align="left" alt="Kannan's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kannan's" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <br/>
 
